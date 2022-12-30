@@ -1,0 +1,770 @@
+.polo {
+  width: 1200px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10px;
+  margin-left: 245px;
+}
+.polo1 {
+  display: flex;
+  gap: 50px;
+}
+* {
+  list-style: none;
+}
+.ula {
+  display: flex;
+}
+.block {
+}
+.logo1 {
+  width: 79px;
+  height: 79px;
+  margin-right: 50px;
+}
+.li1 {
+  width: 41px;
+  height: 18px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 18px;
+  color: #d23166;
+}
+.li2 {
+  width: 49px;
+  height: 16px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #150101;
+}
+
+.li3 {
+  width: 44px;
+  height: 16px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #150101;
+}
+.li4 {
+  width: 80px;
+  height: 16px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+
+  color: #150101;
+}
+.li5 {
+  width: 69px;
+  height: 16px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+
+  color: #150101;
+}
+.a1 {
+  width: 65px;
+  height: 22px;
+  font-family: "Hind Madurai";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 22px;
+  color: #fafafa;
+  padding: 10px;
+}
+.diva1 {
+  width: 85px;
+  height: 25px;
+  background: #d23166;
+  border-radius: 5px;
+  margin-right: 200px;
+}
+.mli1 {
+  width: 172px;
+  margin-top: 100px;
+  margin-left: 5px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #0f0101;
+}
+h1 {
+  /* position: absolute; */
+  width: 665px;
+  height: 130px;
+
+  font-family: "Fredoka One";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 57.33px;
+  line-height: 120.5%;
+  color: #0f0101;
+  margin-top: -5px;
+}
+span {
+  color: #d23166;
+}
+.mp1 {
+  width: 523px;
+  height: 78px;
+  font-family: "Hind Madurai";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  color: #0f0101;
+  margin-top: -20px;
+}
+.mbetwen {
+  position: absolute;
+  width: 665px;
+  height: 364px;
+  margin-top: 75px;
+  margin-left: 250px;
+}
+.mblock2 {
+  margin-right: 30px;
+}
+.mrasim1 {
+  position: absolute;
+  width: 894.68px;
+  height: 742.36px;
+  margin-left: 600px;
+}
+.mbox1 {
+  height: 200px;
+  width: 250px;
+  border-radius: 7px;
+  background: #ffffff;
+  box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.03);
+  border-radius: 7px;
+}
+.mul2 {
+  display: flex;
+  gap: 10px;
+}
+.mrasim3 {
+  height: 43.34976577758789px;
+  width: 51.002159118652344px;
+  border-radius: 0px;
+  /* margin-top: 995px;
+  margin left: 351px; */
+}
+.mrasim4 {
+  height: 42.006290435791016px;
+  width: 27.369884490966797px;
+  border-radius: 0px;
+  /* margin-top: 997px; 
+  margin-left:652px ; */
+}
+.mrasim5 {
+  width: 44px;
+  height: 44px;
+  border-radius: 0px;
+  /* margin-left: 993px; 
+  margin-top:995px ; */
+}
+.msblok2 {
+  height: 200px;
+  width: 1117px;
+  margin-left: 252px;
+  margin-top: 900px;
+  border-radius: [object Object]px;
+  align-items: center;
+}
+.h21 {
+  height: 28px;
+  width: 122px;
+  left: 316px;
+  top: 1063px;
+  border-radius: nullpx;
+  font-family: Hind Madurai;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.h22 {
+  height: 28px;
+  width: 165px;
+  left: 316px;
+  top: 1063px;
+  border-radius: nullpx;
+  font-family: Hind Madurai;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.h23 {
+  height: 28px;
+  width: 165px;
+  left: 874px;
+  top: 1062px;
+  border-radius: nullpx;
+  font-family: Hind Madurai;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.logos2 {
+  height: 43.34976577758789px;
+  width: 51.002159118652344px;
+  left: 351px;
+  top: 995px;
+  border-radius: 0px;
+}
+.poo {
+  width: 198px;
+  border-radius: nullpx;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: center;
+  font-family: "Hind Madurai";
+}
+.poo3 {
+  margin-top: 50px;
+}
+.failrasim {
+  margin-left: 50px;
+}
+.mrasim6 {
+  height: 54px;
+  width: 54px;
+  left: 1217px;
+  top: 989px;
+  border-radius: 0px;
+}
+h2 {
+  margin-left: 20px;
+}
+.sohib {
+  width: 1200px;
+  height: 545px;
+}
+.yoho {
+  width: 442px;
+  height: 256px;
+  margin-left: 250px;
+  margin-top: 150px;
+}
+h3 {
+  height: 98.2698974609375px;
+  width: 349px;
+  left: 253px;
+  top: 1403.586669921875px;
+  border-radius: nullpx;
+  font-family: "Hind Madurai";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 44.2px;
+  line-height: 49px;
+  color: #150101;
+}
+.matin {
+  height: 58.15973663330078px;
+  width: 442px;
+  left: 252px;
+  top: 1517.9005737304688px;
+  border-radius: nullpx;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  /* or 150% */
+  color: #150101;
+  margin-top: -30px;
+  opacity: 0.6;
+}
+.topz {
+  position: absolute;
+  width: 100px;
+  height: 20px;
+  background: #d64374;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+.topz1 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: #fafafa;
+  margin-left: 10px;
+  padding: 5px;
+}
+.imga {
+  height: 656.8038940429688px;
+  width: 655px;
+  left: 768px;
+  top: 1190px;
+  border-radius: 0px;
+  position: absolute;
+  width: 655px;
+  height: 656.8px;
+  left: 768px;
+  top: 1190px;
+
+  background: url(nWvlMBTo86-removebg-preview.png);
+}
+.bang {
+  width: 1200px;
+  margin-left: 250px;
+}
+.asil {
+  display: flex;
+  justify-content: space-between;
+  width: 900px;
+}
+h4 {
+  margin-left: 350px;
+
+  font-family: "Hind Madurai";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 44.2px;
+  line-height: 61px;
+  /* identical to box height */
+
+  color: #150101;
+}
+.po1 {
+  width: 110px;
+  height: 21px;
+  left: 375px;
+  top: 2069px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  /* identical to box height */
+
+  color: #000000;
+}
+.po2 {
+  width: 200px;
+  height: 21px;
+  left: 507px;
+  top: 2069px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  /* identical to box height */
+
+  color: #000000;
+
+  opacity: 0.6;
+}
+.po3 {
+  width: 132px;
+  height: 21px;
+  left: 734px;
+  top: 2069px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  /* identical to box height */
+
+  color: #000000;
+
+  opacity: 0.6;
+}
+.po4 {
+  width: 118px;
+  height: 21px;
+  left: 890px;
+  top: 2069px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  /* identical to box height */
+
+  color: #000000;
+
+  opacity: 0.6;
+}
+.po5 {
+  width: 110px;
+  height: 23px;
+  left: 1041px;
+  top: 2068px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 23px;
+
+  color: #000000;
+
+  opacity: 0.6;
+}
+.po6 {
+  width: 100px;
+  height: 23px;
+  left: 1178px;
+  top: 2068px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 23px;
+
+  color: #000000;
+
+  opacity: 0.6;
+}
+.yoho1 {
+  width: 442px;
+  height: 256px;
+  margin-left: 200px;
+  margin-top: 100px;
+}
+.lom {
+  height: 36px;
+  left: 916px;
+  top: 2200px;
+
+  font-family: "Hind Madurai";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 36px;
+  /* identical to box height */
+
+  color: #000000;
+}
+.lom2 {
+  width: 454px;
+  height: 67px;
+  left: 916px;
+  top: 2247px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  /* or 150% */
+
+  color: #000000;
+
+  opacity: 0.7;
+}
+.lom3 {
+  width: 71px;
+  height: 27px;
+  left: 916px;
+  top: 2342px;
+
+  font-family: "Hind Madurai";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 26px;
+  line-height: 36px;
+
+  color: #000000;
+}
+.lom4 {
+  width: 58px;
+  height: 27px;
+  font-family: "Hind Madurai";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 28px;
+  text-decoration-line: line-through;
+
+  color: #000000;
+
+  opacity: 0.7;
+  margin-top: 4px;
+  margin-bottom: 10px;
+}
+.card11 {
+  width: 580px;
+  height: 415px;
+  left: 251px;
+  top: 2140px;
+
+  background: url(YsS5sVYwga.jpg);
+  border-radius: 10px;
+  margin-right: 20px;
+}
+.frog {
+  margin-top: 50px;
+}
+.yoho3 {
+  width: 442px;
+
+  margin-left: 200px;
+  margin-top: 300px;
+}
+.card111 {
+  width: 580px;
+  height: 415px;
+  left: 829px;
+  top: 2585px;
+
+  background: url(gKveEf5hzQ.jpg);
+  border-radius: 10px;
+  margin-left: 20px;
+  margin-top: -70px;
+}
+.card1111 {
+  width: 580px;
+  height: 415px;
+  left: 249px;
+  top: 3035px;
+
+  background: url(HZa1Jzf3z5.jpg);
+  border-radius: 10px;
+}
+.yoho4 {
+  width: 442px;
+
+  margin-left: 200px;
+  margin-top: 50px;
+}
+.naruto {
+  margin-left: 30px;
+  margin-top: 100px;
+}
+.aslo {
+  height: 58px;
+  width: 59px;
+}
+.ted {
+  width: 179px;
+  height: 28px;
+  left: 334px;
+  top: 3655px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #000000;
+  margin-top: -0px;
+}
+.ted1 {
+  width: 77px;
+  height: 15px;
+  left: 324px;
+  top: 3688px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 14px;
+  text-align: center;
+
+  color: #000000;
+
+  opacity: 0.7;
+  margin-top: 40px;
+}
+.ted2 {
+  width: 322px;
+  height: 53px;
+  left: 275px;
+  top: 3753px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  /* or 150% */
+
+  color: #000000;
+
+  opacity: 0.7;
+}
+.ted3 {
+  height: 10.000086784362793px;
+  width: 10.96817684173584px;
+  border-radius: 0px;
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+  color: red;
+}
+.yoho5 {
+  width: 442px;
+
+  margin-left: 200px;
+  margin-top: 150px;
+}
+.sonik {
+  margin-left: 200px;
+  margin-top: -100px;
+}
+.yoho6 {
+  /* width: 442px; */
+
+  margin-left: 140px;
+  margin-top: 50px;
+}
+.jojo {
+  display: flex;
+  gap: 10px;
+}
+.jkl {
+  align-items: center;
+}
+.naruto22 {
+  margin-left: 200px;
+  margin-top: 20px;
+}
+.degil {
+  position: absolute;
+}
+.yoho7 {
+  margin-left: 450px;
+  margin-top: 150px;
+}
+.yoho8 {
+  margin-left: 200px;
+  margin-top: 200px;
+}
+.hp1 {
+  width: 207px;
+  height: 47px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 17px;
+  letter-spacing: 0.01em;
+
+  color: #ffffff;
+
+  opacity: 0.7;
+}
+footer {
+  background-color: rgba(10, 8, 8, 1);
+  height: 400px;
+  width: 1600px;
+}
+.hp2 {
+  width: 46px;
+  height: 14px;
+  left: 252px;
+  top: 5587px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 14px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+.ganzo {
+  display: flex;
+  gap: 30px;
+}
+.ganzo1 {
+  height: 14px;
+  left: 496px;
+  top: 5500px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  /* identical to box height */
+
+  color: #ffffff;
+  margin-top: 5px;
+}
+.ganzo2 {
+  margin-top: 80px;
+}
+.coxib {
+  margin-left: 150px;
+  margin-top: 70px;
+}
+.go1 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  /* identical to box height */
+
+  color: #ffffff;
+
+  opacity: 0.8;
+  margin: 10px;
+}
+.jiji {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  /* identical to box height */
+  margin-bottom: 20px;
+  color: #ffffff;
+}
+.ganzo3 {
+  margin-top: 80px;
+}
+.sayuznik {
+  margin-right: 500px;
+
+  margin-top: 100px;
+  padding: 50px 50px;
+}
+.foz {
+  width: 1600px;
+  background-color: rgba(10, 8, 8, 1);
+}
+.aka {
+  background-color: red;
+  width: 1600px;
+  /* height: 1000px; */
+}
